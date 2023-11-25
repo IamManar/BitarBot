@@ -1,1 +1,2 @@
-# PharmcyBot
+# BitarBot 
+
